@@ -15,8 +15,10 @@
 - 💬 Ask me about **python, data science and machine learning**
 
 - 📫 How to reach me **gaurav.rayat2004@gmail.com**
-
+  
 - 🐍 Python Resources link: [https://GAURAV-RAYAT.github.io/](https://gaurav-rayat.github.io/PYTHON_CONTENT/)
+
+- [PORTFOLIO](https://gauravrayat.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
